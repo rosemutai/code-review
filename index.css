@@ -27,7 +27,6 @@ body {
 
 #survey-form {
   width: 50%;
-
   margin: 0 auto;
   display: flex;
   flex-direction: column;
@@ -50,7 +49,6 @@ body {
 .frontendC,
 .backendC {
   display: flex;
-
   justify-content: flex-start;
   margin-bottom: 8px;
 }
